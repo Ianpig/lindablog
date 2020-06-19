@@ -1,2 +1,0 @@
-# lindablog
-linda blog
